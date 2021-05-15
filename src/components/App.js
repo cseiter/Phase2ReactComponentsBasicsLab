@@ -20,7 +20,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      {/* add the <Home> component here */}
+      <Home />
       {/* write an <About> component here */}
     </div>
   );
